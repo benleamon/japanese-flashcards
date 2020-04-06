@@ -1,4 +1,4 @@
-#Japanese Flashcards
+# Japanese Flashcards
 This is a collection of Japanese flashcards I've made for my personal use. It is highly likely here are mistakes. If there are, please feel free to submit edits via github or let me know.  
 
 ## To Use the flashcards: 
